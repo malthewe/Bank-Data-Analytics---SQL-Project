@@ -18,6 +18,6 @@ The goal is to extract insights from the data to support business decisions such
 
 ## Potential Extensions
 
-- Connect this dataset to Power BI to build dashboards and storytelling reports.  
+- Connect this dataset to Power BI or Tableau to build dashboards and storytelling reports.  
 - Extend the schema with more granular data like loan details or credit scores.  
 - Implement more advanced analytics or fraud detection querie
